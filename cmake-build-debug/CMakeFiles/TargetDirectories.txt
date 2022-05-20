@@ -1,0 +1,3 @@
+C:/Users/gpegv/CLionProjects/Desc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gpegv/CLionProjects/Desc/cmake-build-debug/CMakeFiles/Desc.dir
+C:/Users/gpegv/CLionProjects/Desc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
